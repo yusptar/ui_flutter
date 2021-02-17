@@ -1,8 +1,8 @@
 # hello_world
-<p>Hasil Screenshot Tugas Pertama Flutter<p>
-![1](https://user-images.githubusercontent.com/70737618/108281242-f9430080-71b1-11eb-8c95-a54cf873296e.jpg)
-![2](https://user-images.githubusercontent.com/70737618/108281399-445d1380-71b2-11eb-9abc-2206e1af7eaa.jpg)
-<p>Hasil Screenshot Tugas Kedua Flutter<P>
+<p>1. Hasil Screenshot Tugas Pertama Flutter<p>
+https://user-images.githubusercontent.com/70737618/108281242-f9430080-71b1-11eb-8c95-a54cf873296e.jpg)<br>
+https://user-images.githubusercontent.com/70737618/108281399-445d1380-71b2-11eb-9abc-2206e1af7eaa.jpg)<br>
+<p>2. Hasil Screenshot Tugas Kedua Flutter<P>
 
 A new Flutter project.
 
